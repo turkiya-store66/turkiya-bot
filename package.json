@@ -1,0 +1,15 @@
+{
+  "name": "turkiya-mafroshat-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "بوت واتساب لمحل تركيا للمفروشات",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
